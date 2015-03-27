@@ -80,3 +80,4 @@ D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.InitialCreate
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.AddRatingMig.resources
+D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.AddRatingMig1.resources

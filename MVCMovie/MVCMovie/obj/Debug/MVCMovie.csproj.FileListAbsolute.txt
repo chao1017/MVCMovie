@@ -74,6 +74,9 @@ D:\GitHub\MVCMovie\MVCMovie\MVCMovie\bin\ko\System.Spatial.resources.dll
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\bin\ru\System.Spatial.resources.dll
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\bin\zh-Hans\System.Spatial.resources.dll
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\bin\zh-Hant\System.Spatial.resources.dll
-D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
 D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
+D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.InitialCreate.resources
+D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
+D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
+D:\GitHub\MVCMovie\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.AddRatingMig.resources
